@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/N00ber17/react-freeCodeCamp-Clock/static/css/main.9528be87.css",
+    "main.js": "/N00ber17/react-freeCodeCamp-Clock/static/js/main.86aa56e9.js",
+    "static/js/787.b972bb5b.chunk.js": "/N00ber17/react-freeCodeCamp-Clock/static/js/787.b972bb5b.chunk.js",
+    "index.html": "/N00ber17/react-freeCodeCamp-Clock/index.html",
+    "main.9528be87.css.map": "/N00ber17/react-freeCodeCamp-Clock/static/css/main.9528be87.css.map",
+    "main.86aa56e9.js.map": "/N00ber17/react-freeCodeCamp-Clock/static/js/main.86aa56e9.js.map",
+    "787.b972bb5b.chunk.js.map": "/N00ber17/react-freeCodeCamp-Clock/static/js/787.b972bb5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9528be87.css",
+    "static/js/main.86aa56e9.js"
+  ]
+}
